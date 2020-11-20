@@ -1,0 +1,47 @@
+*{background-color: yellow;}
+.row1
+{
+background-color:orangered;
+height: 120px;
+width: 100%;
+}
+.row2
+{
+margin-top: 20px;
+background-color:red;
+height: 120px;
+width: 100%;
+}
+.row3
+{
+margin-top: 20px;
+background-color: green;
+height: 120px;
+width: 100%;
+}
+.row4
+{
+margin-top: 20px;
+background-color:orangered;
+height: 120px;
+width: 100%;
+}
+
+.c1{
+    width: 13.5%;
+    background-color: white;
+    margin-top: 10px;
+    height: 100px;
+    margin-left: .5%;
+    float: left;
+}
+
+H1{text-align: center;
+     color: orangered;
+     background-color: white;
+    font-size: 50px;
+    }
+    h1:hover{
+        cursor: pointer;
+        background-color: green;
+    }
